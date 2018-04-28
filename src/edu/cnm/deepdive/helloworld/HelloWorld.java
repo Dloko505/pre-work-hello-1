@@ -4,8 +4,7 @@
 package edu.cnm.deepdive.helloworld;
 
 /**
- * Simple class that displays the "Hello World!" 
- message.
+ * Simple class that displays the "Hello World!" message.
  */
 public class HelloWorld {
 
@@ -17,4 +16,5 @@ public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Hello World!");
   }
+  
 }
